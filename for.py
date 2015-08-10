@@ -1,9 +1,11 @@
+#coding=utf8
 j=0
-for i in range(1,101):#´Ó1µ½100Ñ­»·100´Î
+for i in range(1,101):#ä»Ž1åˆ°100å¾ªçŽ¯100æ¬¡
     j=j+i
 print j
 
-for i int range(0,10):  #´Ó0µ½9£¬Ñ­»·9´Î£¬range(a,b)  ´ÓaÑ­»·Ö¹b-1¡£
+input()
+# for i int range(0,10):  #ä»Ž0åˆ°9ï¼Œå¾ªçŽ¯9æ¬¡ï¼Œrange(a,b)  ä»Žaå¾ªçŽ¯æ­¢b-1ã€‚
     
 
 
